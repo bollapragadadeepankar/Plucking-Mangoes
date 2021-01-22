@@ -15,8 +15,8 @@ class Throw{
         this.throw.bodyA=null;
     }
 
-    Launch(bodyA){
-        this.throw.bodyA=bodyA;
+    touch(body){
+        this.throw.bodyA=body;
     }
 
     display(){
