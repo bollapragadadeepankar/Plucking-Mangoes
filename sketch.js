@@ -100,4 +100,12 @@ function detectCollision(lstones,lmango){
 	}
 
 }
+
+function keyPressed()
+{
+	if(keyCode === 32)
+	{
+		attach.touch(stones.body):
+	}
+}
  
